@@ -7,4 +7,7 @@ public class Test {
         System.out.println("hello zhixian...");
         System.out.println("hello zhixian...");
     }
+    public void test(){
+        int i = 0;
+    }
 }
